@@ -1,0 +1,13 @@
+body{
+    color: #06010e;
+}
+.primary{
+    background: #f35d06 !important;
+}
+.secondary{
+    background: #eb08eb !important;
+}
+
+.bodyPart{
+    min-height: 450px;
+}
